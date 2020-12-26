@@ -2043,6 +2043,7 @@
 - [Visaj Nirav Shah](https://github.com/visajshah)
 - [Ajaydeep singh rajpoot](https://github.com/Ajaydeep123)
 - Pramita
+- [Francis Chirara] (https://github.com/fchirara)
 - [Ana Vassallo](https://github.com/AnaGVF)
 - [Sakshi Kedar](https://github.com/sakshikedar)
 - [Utkarsh Raj](https://github.com/theroyalraj)
